@@ -21,6 +21,5 @@
   - Server 2: 210.3.14.2
   - PC 3: 210.3.14.3
   - Server 3: 210.3.14.4
-
 ## DHCP Configuration on Router
 
